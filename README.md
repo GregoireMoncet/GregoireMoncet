@@ -1,13 +1,13 @@
 # Bonjour, je suis Grégoire Moncet
 
-Étudiant en 3e année de **Bachelor Intelligence Artificielle à l'ECE** (Paris), je cherche un **stage de 4 à 6 mois en data science / IA, à partir d'avril 2027**, en Île-de-France ou autour de Rennes. Je vise ensuite un Master IA / Machine Learning.
+Étudiant en 3e année de **Bachelor Intelligence Artificielle à l'ECE** (Paris)
 
 ## Compétences
 
 - **Langages** : Python, SQL, C++, C#
 - **Data / ML** : pandas, NumPy, scikit-learn, Matplotlib, Jupyter, classification supervisée
 - **Outils** : Linux, Docker, Git, Looker Studio
-- **Langues** : français (natif), anglais (TOEFL 633, niveau C1), espagnol (intermédiaire)
+- **Langues** : français, anglais
 
 ## Projets
 
